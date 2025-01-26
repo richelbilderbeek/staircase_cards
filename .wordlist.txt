@@ -5,7 +5,6 @@ jsonc
 linter
 markdownlint
 markdownlintignore
-Misspelled words:
 mlc
 png
 Richel
@@ -16,3 +15,11 @@ txt
 wordlist
 XLS
 yml
+faq
+gmail
+html
+https
+rjcbilderbeek
+sexualized
+socio
+www
