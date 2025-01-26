@@ -1,4 +1,4 @@
-# staircase_cards
+# Staircase cards
 
 ![A staircase card](staircase_card.jpg)
 

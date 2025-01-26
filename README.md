@@ -1,4 +1,4 @@
-# staircase_cards
+# Staircase cards
 
 <!-- markdownlint-disable MD013 --><!-- Badges cannot be split up over lines, hence will break 80 characters per line -->
 
@@ -8,6 +8,8 @@
 [![Create website](https://github.com/richelbilderbeek/staircase_cards/actions/workflows/create_website.yaml/badge.svg?branch=main)](https://github.com/richelbilderbeek/staircase_cards/actions/workflows/create_website.yaml)
 
 <!-- markdownlint-disable MD013 -->
+
+- [Go to the nicely rendered website](https://richelbilderbeek.github.io/staircase_cards/)
 
 ## Files used by continuous integration scripts
 
