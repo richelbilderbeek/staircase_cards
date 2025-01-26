@@ -1,5 +1,11 @@
 # staircase_cards
 
+<!-- markdownlint-disable MD013 --><!-- Badges cannot be split up over lines, hence will break 80 characters per line -->
+
+[![Check links](https://github.com/richelbilderbeek/staircase_cards/actions/workflows/check_links.yaml/badge.svg)](https://github.com/richelbilderbeek/staircase_cards/actions/workflows/check_links.yaml)
+
+<!-- markdownlint-disable MD013 -->
+
 ## Files used by continuous integration scripts
 
 <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
