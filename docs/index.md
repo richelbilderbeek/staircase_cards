@@ -1,5 +1,7 @@
 # staircase_cards
 
+![A staircase card](staircase_card.jpg)
+
 My hand-crafted staircase cards
 
 - [The Druten series](druten_series/README.md)
