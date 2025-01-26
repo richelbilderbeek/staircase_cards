@@ -1,4 +1,18 @@
+config
+Druten
+json
+jsonc
+linter
+markdownlint
+markdownlintignore
+Misspelled words:
+mlc
+png
 Richel
 Richèl
+SVG
+svg
+txt
+wordlist
 XLS
-Druten
+yml
